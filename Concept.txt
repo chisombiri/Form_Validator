@@ -1,0 +1,8 @@
+Created on 27-05-2020
+A Form Validator that:
+1. Gets username, email and password from user
+2. Checks length of username and password
+3. Checks validity or email
+4. Checks that password being confirmed matches with inital
+5. Has an active submit button which gives a go upon success 
+   or a red lining on each box field.
